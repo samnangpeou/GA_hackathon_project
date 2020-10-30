@@ -22,7 +22,6 @@ Pick a Kaggle competition from the following list. You have the choice of comple
 
 - [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews) / [Alternative Sentiment Analysis on Movie Reviews](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - [What's Cooking?](https://www.kaggle.com/c/whats-cooking)
-- [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started/)
 - [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
 
 ### Image Classification
