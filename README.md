@@ -33,7 +33,7 @@ Pick a Kaggle competition from the following list. You have the choice of comple
 
 - **9am**: Project introduction.
 - **10am**: Answer the check-in form with the dataset you've chosen.
-- **4pm**: 5-minute lightning talks where you walk us through your process. **No slides necessary** -- it's fine if you'd prefer walk us through your Jupyter notebook instead.
+- **4pm**: 3-minute lightning talks where you walk us through your process. **No slides necessary** -- it's fine if you'd prefer walk us through your Jupyter notebook instead, but remember you only have 3 minutes!
 - **5pm**: Make sure your project work has been pushed.
 
 ## Guidelines
