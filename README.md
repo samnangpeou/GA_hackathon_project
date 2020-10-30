@@ -5,24 +5,28 @@ Pick a Kaggle competition from the following list. You have the choice of comple
 ## Datasets
 
 ### Regression
+
 - [Restaurant Revenue Prediction](https://www.kaggle.com/c/restaurant-revenue-prediction)
 - [Video Game Sales Prediction](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)
 - [Box Office Revenue Prediction](https://www.kaggle.com/c/tmdb-box-office-prediction)
 - [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)
 
 ### Classification
+
 - [Predicting a Biological Response](https://www.kaggle.com/c/bioresponse/data)
 - [Kobe Bryant Shot Selection](https://www.kaggle.com/c/kobe-bryant-shot-selection)
 - [Shelter Animal Outcomes](https://www.kaggle.com/c/shelter-animal-outcomes)
 - [Airbnb New User Bookings](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings)
 
 ### NLP
+
 - [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews) / [Alternative Sentiment Analysis on Movie Reviews](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - [What's Cooking?](https://www.kaggle.com/c/whats-cooking)
 - [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started/)
 - [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
 
 ## Timeline
+
 - **10am**: Project introduction.
 - **11am**: By 11am, Slack Caroline what dataset you've chosen.
 - **5pm**: 5-minute lightning talks where you walk us through your process. **No slides necessary** -- it's fine if you'd prefer walk us through your Jupyter notebook.
@@ -34,9 +38,9 @@ We know this is a short time for a project. We're not expecting anything as poli
 
 ## Rubric
 
-*Scores will be out of 18 points based on the 6 categories in the rubric.*
+Scores will be out of 18 points based on the 6 categories in the rubric.
 
-*3 points per section*
+3 points per section.
 
 | Score | Interpretation |
 | --- | --- |
@@ -45,21 +49,24 @@ We know this is a short time for a project. We're not expecting anything as poli
 | **2** | *Project exceeds the minimum requirements for this item, but falls short of portfolio-ready expectations.* |
 | **3** | *Project meets or exceeds portfolio-ready expectations; demonstrates a thorough understanding of every outlined consideration.* |
 
-**Data Cleaning and EDA**
+### Data Cleaning and EDA
+
 - Are missing values imputed/handled appropriately?
 - Are distributions examined and described?
 - Are outliers identified and addressed?
 - Are appropriate summary statistics provided?
 - Are steps taken during data cleaning and EDA framed appropriately?
 
-**Visualizations**
+### Visualizations
+
 - Are sufficient visualizations provided?
 - Do plots accurately demonstrate valid relationships?
 - Are plots labeled properly?
 - Are plots interpreted appropriately?
 - Are plots formatted and scaled appropriately for inclusion in a notebook-based technical report?
 
-**Preprocessing and Modeling**
+### Preprocessing and Modeling
+
 - Are categorical variables appropriately handled?
 - Does the student properly split and/or sample the data for validation/training purposes?
 - Does the student utilize feature selection to remove noisy or multi-collinear features?
@@ -67,13 +74,15 @@ We know this is a short time for a project. We're not expecting anything as poli
 - Does the student defend their choice of production model relevant to the data at hand and the problem?
 - Does the student explain how the model works and evaluate its performance successes/downfalls?
 
-**Evaluation and Conceptual Understanding**
+### Evaluation and Conceptual Understanding
+
 - Does the student accurately identify and explain the baseline score?
 - Does the student select and use metrics relevant to the problem objective?
 - Does the student interpret the results of their model for purposes of inference?
 - Is domain knowledge demonstrated when interpreting results?
 
-**Project Organization**
+### Project Organization
+
 - Are modules imported correctly (using appropriate aliases)?
 - Does the README provide a good executive summary of the project?
 - Is markdown formatting used appropriately to structure notebooks?
@@ -82,16 +91,16 @@ We know this is a short time for a project. We're not expecting anything as poli
 - Are there unnecessary files included?
 - Do files and directories have well-structured, appropriate, consistent names?
 
-**Python Syntax and Control Flow**
+### Python Syntax and Control Flow
+
 - Is care taken to write human readable code?
 - Is the code syntactically correct (no runtime errors)?
 - Does the code generate desired results (logically correct)?
 - Does the code follows general best practices and style guidelines?
 - Are Pandas and sklearn functions used appropriately?
 
-
 ## Note
 
 Do not duplicate someone else's analysis and make sure to give credit to any resources you used. :)
 
-## Have fun!
+Have fun!
