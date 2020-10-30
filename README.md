@@ -1,4 +1,4 @@
-# Project 4
+# ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 4: Choose Your Own Adventure
 
 Pick a Kaggle competition from the following list. You have the choice of completing a regression problem, a classification problem, or an NLP problem involving either classification or sentiment analysis. Perform some EDA, and fit and evaluate at least two models on the dataset you've chosen.
 
@@ -25,16 +25,21 @@ Pick a Kaggle competition from the following list. You have the choice of comple
 - [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started/)
 - [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
 
+### Image Classification
+
+- [Kannada MNIST](https://www.kaggle.com/c/Kannada-MNIST)
+- [Steel Defect Detection](https://www.kaggle.com/c/severstal-steel-defect-detection/overview)
+
 ## Timeline
 
-- **10am**: Project introduction.
-- **11am**: By 11am, Slack Caroline what dataset you've chosen.
-- **5pm**: 5-minute lightning talks where you walk us through your process. **No slides necessary** -- it's fine if you'd prefer walk us through your Jupyter notebook.
-- **6pm**: Make sure your project work has been pushed.
+- **9am**: Project introduction.
+- **10am**: Answer the check-in form with the dataset you've chosen.
+- **4pm**: 5-minute lightning talks where you walk us through your process. **No slides necessary** -- it's fine if you'd prefer walk us through your Jupyter notebook instead.
+- **5pm**: Make sure your project work has been pushed.
 
 ## Guidelines
 
-We know this is a short time for a project. We're not expecting anything as polished as project two or three, for example. However, the goal is for you to have something to show for your time. At a minimum, do some EDA and have at least two models fit and scored.
+We know this is a short time for a project. We're not expecting anything as polished as project two or three. However, the goal is for you to have something to show for your time. At a minimum, do some EDA and have at least two models fit and scored.
 
 ## Rubric
 
