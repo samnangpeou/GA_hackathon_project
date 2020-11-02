@@ -27,7 +27,7 @@ Pick a Kaggle competition from the following list. You have the choice of comple
 ### Image Classification
 
 - [Kannada MNIST](https://www.kaggle.com/c/Kannada-MNIST)
-- [Steel Defect Detection](https://www.kaggle.com/c/severstal-steel-defect-detection/overview)
+- [Intel Image Classification](https://www.kaggle.com/puneet6060/intel-image-classification)
 
 ## Timeline
 
